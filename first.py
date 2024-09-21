@@ -1,1 +1,1 @@
-print("i have satrt lerning DevOPs"
+print("i have satrt lerning DevOPs")
